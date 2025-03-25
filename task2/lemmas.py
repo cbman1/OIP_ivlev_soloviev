@@ -1,8 +1,11 @@
 import os
 import re
 from collections import defaultdict
+import pymorphy2
 
-INPUT_DIR = "/Users/ivlev/PycharmProjects/OIP_ivlev_soloviev/выкачка"
+current_dir = os.path.dirname(os.path.abspath(__file__))
+INPUT_DIR = os.path.join(current_dir, "../task1/выкачка")
+
 OUTPUT_DIR = "task2/task2_output"
 
 # стоп-слова
@@ -17,20 +20,12 @@ WORD_REGEX = re.compile(r"[a-zA-Zа-яА-ЯёЁ]+")
 # регулярное выражения для проверки, что слово состоит только из английских букв
 ENGLISH_REGEX = re.compile(r"^[a-zA-Z]+$")
 
-# набор суффиксов для лемматизации
-SUFFIXES = sorted([
-    "иями", "ями", "ами", "его", "ого", "ому", "ему", "ыми",
-    "ский", "ская", "ское", "ских", "ного", "ней", "ией",
-    "ый", "ая", "ое", "ых", "их", "ой", "ей", "ам", "ем", "ым",
-    "ом", "ев", "ов", "а", "ы", "е", "и", "у", "ю", "о", "ь", "й"
-], key=lambda s: -len(s))
+morph = pymorphy2.MorphAnalyzer()
 
-# отсекает известные суффиксы, если оставшаяся часть имеет длины не меньше 3 символов
+
 def lemmatize(token: str) -> str:
-    for suf in SUFFIXES:
-        if token.endswith(suf) and len(token) - len(suf) >= 3:
-            return token[:-len(suf)]
-    return token
+    return morph.parse(token)[0].normal_form
+
 
 # чтение файла, токенизация, фильтрация, создание двух файлов lemmas.txt и tokens.txt
 def process_file(filepath: str, out_subdir: str):
@@ -79,6 +74,7 @@ def process_file(filepath: str, out_subdir: str):
 
     print(f"Обработан файл {filepath} -> {tokens_file}, {lemmas_file}")
 
+
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     try:
@@ -96,6 +92,7 @@ def main():
         process_file(filepath, out_subdir)
 
     print("Готово. Все файлы обработаны.")
+
 
 if __name__ == "__main__":
     main()
