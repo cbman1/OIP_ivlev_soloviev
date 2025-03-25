@@ -1,0 +1,652 @@
+<h1 class="page_title">ПРОБЛЕМЫ СОЦИАЛЬНО-ЭКОНОМИЧЕСКОГО РАЗВИТИЯ МОНОГОРОДОВ АЛТАЙСКОГО КРАЯ</h1><div class="authors"><p><a href="/author/shipulina-tatyana-sergeevna">Шипулина Татьяна Сергеевна</a></p><p><p align="right"><em>аспирант, Алтайский государственный педагогический университет,</em></p>
+<p align="right"><em> РФ</em><em>, </em><em>г</em><em>. </em><em>Барнаул</em></p>
+</p></div><div class="content clearfix">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even">
+
+
+
+
+
+<p align="center"><strong>АННОТАЦИЯ</strong></p>
+<p style="text-align: justify;">Актуальность исследования заключается в определении современных проблем социально-экономической направленности в развитии моногородов, расположенные на территории Алтайского края, решение которых позволит увеличить инвестиционную привлекательность региона, а также будет способствовать импортозамещению, которое является на сегодняшний день одним из приоритетных направлений стратегического развития России. Моногорода обладают своими особенностями и рядом специфических задач, из них ключевым является недостаток средств. В этой статье представлен обзор основных проблем развития моногородов.</p>
+
+<p style="text-align: justify;">The relevance of the study lies in identifying modern socio-economic problems in the development of single-industry towns located in the Altai Territory, the solution of which will increase the investment attractiveness of the region, as well as promote import substitution, which is currently one of the priorities of Russia's strategic development. Single-industry towns have their own characteristics and a number of specific tasks, of which the key is the lack of funds. This article provides an overview of the main problems of the development of single-industry towns.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><strong>Ключевые слова: </strong>моногород, развитие, проблемы, опережающие территории.</p>
+<p style="text-align: justify;"><strong>Keywords: </strong>single-industry town, development, problems, advanced territories.</p>
+<p> </p>
+<p style="text-align: justify;">На протяжении последнего десятилетия понятие «моногород» стало устойчивой характеристикой территориального образования. В начале 2023 года в России зарегистрировано официально 321 поселок, относящийся к этой характеристике [3]. Создание опережающих территорий является одной из действующих мер по поддержке бизнеса, которая позволяет резидентам использовать существенные налоговые преференции. Для определения современного состояния социально-экономического развития моногородов Алтайского края, необходимо обозначить динамику развития за определенный промежуток времени. Динамика социально-экономического развития моногородов Алтайского края за 2021-2024 гг. представлена в таблице 1.</p>
+
+<p align="center"><strong>Динамика социально-экономического развития моногородов Алтайского края за 2021-2024 гг.</strong></p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width:173px;">
+<p align="center"><strong>Показатель</strong></p>
+</td>
+<td style="width:71px;">
+<p align="center"><strong>2021 г.</strong></p>
+</td>
+<td style="width:78px;">
+<p align="center"><strong>2022 г.</strong></p>
+</td>
+<td style="width:78px;">
+<p align="center"><strong>2023 г.</strong></p>
+</td>
+<td style="width:78px;">
+<p align="center"><strong>2024 г. (прогноз)</strong></p>
+</td>
+<td style="width:86px;">
+<p align="center"><strong>Абсолютное отклонение 2024-2021 г.</strong></p>
+</td>
+<td style="width:79px;">
+<p align="center"><strong>Темп прироста, %</strong></p>
+<p align="center"><strong>2024/2021 г.</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="7" style="width:642px;">
+<p align="center">г. Алейск</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Индекс промышленного производства по полному кругу организаций, %</p>
+</td>
+<td style="width:71px;">
+<p align="center">98,7</p>
+</td>
+<td style="width:78px;">
+<p align="center">100,1</p>
+</td>
+<td style="width:78px;">
+<p align="center">100,2</p>
+</td>
+<td style="width:78px;">
+<p align="center">100,5</p>
+</td>
+<td style="width:86px;">
+<p align="center">1,8</p>
+</td>
+<td style="width:79px;">
+<p align="center">1,82</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Объем отгруженных товаров, собственного производства, выполненных работ, услуг собственными силами по кругу крупных и средних организаций, млн. руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">10333059</p>
+</td>
+<td style="width:78px;">
+<p align="center">11578995,7</p>
+</td>
+<td style="width:78px;">
+<p align="center">12109604,1</p>
+</td>
+<td style="width:78px;">
+<p align="center">12734498,4</p>
+</td>
+<td style="width:86px;">
+<p align="center">2401439,4</p>
+</td>
+<td style="width:79px;">
+<p align="center">23,24</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Объем инвестиций в основной капитал, млн. руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">649,1</p>
+</td>
+<td style="width:78px;">
+<p align="center">574,6</p>
+</td>
+<td style="width:78px;">
+<p align="center">436</p>
+</td>
+<td style="width:78px;">
+<p align="center">428,5</p>
+</td>
+<td style="width:86px;">
+<p align="center">-220,6</p>
+</td>
+<td style="width:79px;">
+<p align="center">-33,99</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Оборот розничной торговли, млн. руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">2858,2</p>
+</td>
+<td style="width:78px;">
+<p align="center">3144</p>
+</td>
+<td style="width:78px;">
+<p align="center">3427</p>
+</td>
+<td style="width:78px;">
+<p align="center">3735,4</p>
+</td>
+<td style="width:86px;">
+<p align="center">877,2</p>
+</td>
+<td style="width:79px;">
+<p align="center">30,69</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Фонд начисленной заработной платы, млн. руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">2398485</p>
+</td>
+<td style="width:78px;">
+<p align="center">2590279</p>
+</td>
+<td style="width:78px;">
+<p align="center">2825969</p>
+</td>
+<td style="width:78px;">
+<p align="center">3054803</p>
+</td>
+<td style="width:86px;">
+<p align="center">656318</p>
+</td>
+<td style="width:79px;">
+<p align="center">27,36</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Среднесписочная численность работников по кругу крупных и средних организаций, чел.</p>
+</td>
+<td style="width:71px;">
+<p align="center">5633</p>
+</td>
+<td style="width:78px;">
+<p align="center">5505</p>
+</td>
+<td style="width:78px;">
+<p align="center">5510</p>
+</td>
+<td style="width:78px;">
+<p align="center">5509</p>
+</td>
+<td style="width:86px;">
+<p align="center">-124</p>
+</td>
+<td style="width:79px;">
+<p align="center">-2,20</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Среднемесячная начисленная заработная плата, руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">35484,5</p>
+</td>
+<td style="width:78px;">
+<p align="center">39211</p>
+</td>
+<td style="width:78px;">
+<p align="center">42740</p>
+</td>
+<td style="width:78px;">
+<p align="center">46159</p>
+</td>
+<td style="width:86px;">
+<p align="center">10674,5</p>
+</td>
+<td style="width:79px;">
+<p align="center">30,08</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Уровень зарегистрированной безработицы, %</p>
+</td>
+<td style="width:71px;">
+<p align="center">0,15</p>
+</td>
+<td style="width:78px;">
+<p align="center">0,2</p>
+</td>
+<td style="width:78px;">
+<p align="center">0,2</p>
+</td>
+<td style="width:78px;">
+<p align="center">0,2</p>
+</td>
+<td style="width:86px;">
+<p align="center">0,05</p>
+</td>
+<td style="width:79px;">
+<p align="center">33,33</p>
+</td>
+</tr>
+<tr>
+<td colspan="7" style="width:642px;">
+<p align="center">г. Заринск</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Индекс промышленного производства по полному кругу организаций, %</p>
+</td>
+<td style="width:71px;">
+<p align="center">96,5</p>
+</td>
+<td style="width:78px;">
+<p align="center">98,7</p>
+</td>
+<td style="width:78px;">
+<p align="center">100,1</p>
+</td>
+<td style="width:78px;">
+<p align="center">100,2</p>
+</td>
+<td style="width:86px;">
+<p align="center">3,7</p>
+</td>
+<td style="width:79px;">
+<p align="center">3,83</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Объем отгруженных товаров, собственного производства, выполненных работ, услуг собственными силами по кругу крупных и средних организаций, млн. руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">9875490,3</p>
+</td>
+<td style="width:78px;">
+<p align="center">9917011,9</p>
+</td>
+<td style="width:78px;">
+<p align="center">9812458,1</p>
+</td>
+<td style="width:78px;">
+<p align="center">9801976,4</p>
+</td>
+<td style="width:86px;">
+<p align="center">-73513,9</p>
+</td>
+<td style="width:79px;">
+<p align="center">-0,74</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Объем инвестиций в основной капитал, млн. руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">538,1</p>
+</td>
+<td style="width:78px;">
+<p align="center">521,5</p>
+</td>
+<td style="width:78px;">
+<p align="center">503,9</p>
+</td>
+<td style="width:78px;">
+<p align="center">500,1</p>
+</td>
+<td style="width:86px;">
+<p align="center">-38</p>
+</td>
+<td style="width:79px;">
+<p align="center">-7,06</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Оборот розничной торговли, млн. руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">2135,7</p>
+</td>
+<td style="width:78px;">
+<p align="center">2879,6</p>
+</td>
+<td style="width:78px;">
+<p align="center">3052,8</p>
+</td>
+<td style="width:78px;">
+<p align="center">3185,7</p>
+</td>
+<td style="width:86px;">
+<p align="center">1050</p>
+</td>
+<td style="width:79px;">
+<p align="center">49,16</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Фонд начисленной заработной платы, млн. руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">2297401</p>
+</td>
+<td style="width:78px;">
+<p align="center">2387159</p>
+</td>
+<td style="width:78px;">
+<p align="center">2677842</p>
+</td>
+<td style="width:78px;">
+<p align="center">2938497</p>
+</td>
+<td style="width:86px;">
+<p align="center">641096</p>
+</td>
+<td style="width:79px;">
+<p align="center">27,91</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Среднесписочная численность работников по кругу крупных и средних организаций, чел.</p>
+</td>
+<td style="width:71px;">
+<p align="center">5049</p>
+</td>
+<td style="width:78px;">
+<p align="center">5031</p>
+</td>
+<td style="width:78px;">
+<p align="center">5028</p>
+</td>
+<td style="width:78px;">
+<p align="center">5011</p>
+</td>
+<td style="width:86px;">
+<p align="center">-38</p>
+</td>
+<td style="width:79px;">
+<p align="center">-0,75</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Среднемесячная начисленная заработная плата, руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">33870,5</p>
+</td>
+<td style="width:78px;">
+<p align="center">34923,1</p>
+</td>
+<td style="width:78px;">
+<p align="center">35742,6</p>
+</td>
+<td style="width:78px;">
+<p align="center">37911,9</p>
+</td>
+<td style="width:86px;">
+<p align="center">4041,4</p>
+</td>
+<td style="width:79px;">
+<p align="center">11,93</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Уровень зарегистрированной безработицы, %</p>
+</td>
+<td style="width:71px;">
+<p align="center">0,17</p>
+</td>
+<td style="width:78px;">
+<p align="center">0,2</p>
+</td>
+<td style="width:78px;">
+<p align="center">0,2</p>
+</td>
+<td style="width:78px;">
+<p align="center">0,2</p>
+</td>
+<td style="width:86px;">
+<p align="center">0,03</p>
+</td>
+<td style="width:79px;">
+<p align="center">17,65</p>
+</td>
+</tr>
+<tr>
+<td colspan="7" style="width:642px;">
+<p align="center">г. Новоалтайск</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Индекс промышленного производства по полному кругу организаций, %</p>
+</td>
+<td style="width:71px;">
+<p align="center">95,9</p>
+</td>
+<td style="width:78px;">
+<p align="center">96,7</p>
+</td>
+<td style="width:78px;">
+<p align="center">100,1</p>
+</td>
+<td style="width:78px;">
+<p align="center">100,2</p>
+</td>
+<td style="width:86px;">
+<p align="center">4,3</p>
+</td>
+<td style="width:79px;">
+<p align="center">4,48</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Объем отгруженных товаров, собственного производства, выполненных работ, услуг собственными силами по кругу крупных и средних организаций, млн. руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">9956230,3</p>
+</td>
+<td style="width:78px;">
+<p align="center">9969021,9</p>
+</td>
+<td style="width:78px;">
+<p align="center">10112432,1</p>
+</td>
+<td style="width:78px;">
+<p align="center">10201916,5</p>
+</td>
+<td style="width:86px;">
+<p align="center">245686,2</p>
+</td>
+<td style="width:79px;">
+<p align="center">2,47</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Объем инвестиций в основной капитал, млн. руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">439,1</p>
+</td>
+<td style="width:78px;">
+<p align="center">429,5</p>
+</td>
+<td style="width:78px;">
+<p align="center">412,9</p>
+</td>
+<td style="width:78px;">
+<p align="center">410,3</p>
+</td>
+<td style="width:86px;">
+<p align="center">-28,8</p>
+</td>
+<td style="width:79px;">
+<p align="center">-6,56</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Оборот розничной торговли, млн. руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">2245,7</p>
+</td>
+<td style="width:78px;">
+<p align="center">2680,6</p>
+</td>
+<td style="width:78px;">
+<p align="center">3132,6</p>
+</td>
+<td style="width:78px;">
+<p align="center">3188,9</p>
+</td>
+<td style="width:86px;">
+<p align="center">943,2</p>
+</td>
+<td style="width:79px;">
+<p align="center">42,00</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Фонд начисленной заработной платы, млн. руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">2196401</p>
+</td>
+<td style="width:78px;">
+<p align="center">2286859</p>
+</td>
+<td style="width:78px;">
+<p align="center">2567840</p>
+</td>
+<td style="width:78px;">
+<p align="center">2985497</p>
+</td>
+<td style="width:86px;">
+<p align="center">789096</p>
+</td>
+<td style="width:79px;">
+<p align="center">35,93</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Среднесписочная численность работников по кругу крупных и средних организаций, чел.</p>
+</td>
+<td style="width:71px;">
+<p align="center">4269</p>
+</td>
+<td style="width:78px;">
+<p align="center">4203</p>
+</td>
+<td style="width:78px;">
+<p align="center">4195</p>
+</td>
+<td style="width:78px;">
+<p align="center">4186</p>
+</td>
+<td style="width:86px;">
+<p align="center">-83</p>
+</td>
+<td style="width:79px;">
+<p align="center">-1,94</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Среднемесячная начисленная заработная плата, руб.</p>
+</td>
+<td style="width:71px;">
+<p align="center">34870,5</p>
+</td>
+<td style="width:78px;">
+<p align="center">34973,1</p>
+</td>
+<td style="width:78px;">
+<p align="center">35942,6</p>
+</td>
+<td style="width:78px;">
+<p align="center">38911,9</p>
+</td>
+<td style="width:86px;">
+<p align="center">4041,4</p>
+</td>
+<td style="width:79px;">
+<p align="center">11,59</p>
+</td>
+</tr>
+<tr>
+<td style="width:173px;">
+<p>Уровень зарегистрированной безработицы, %</p>
+</td>
+<td style="width:71px;">
+<p align="center">0,18</p>
+</td>
+<td style="width:78px;">
+<p align="center">0,2</p>
+</td>
+<td style="width:78px;">
+<p align="center">0,2</p>
+</td>
+<td style="width:78px;">
+<p align="center">0,2</p>
+</td>
+<td style="width:86px;">
+<p align="center">0,02</p>
+</td>
+<td style="width:79px;">
+<p align="center">11,11</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Источник: составлено автором по [7], [8], [9]</p>
+<p> </p>
+<p style="text-align: justify;">Основными проблемами в развитии моногородов Алтайского края в социально-экономическом направлении являются:</p>
+<ul>
+<li style="text-align: justify;">наличие взаимосвязи между уровнем занятости населения моногородов и функционирующими на данной территории градообразующих предприятий;</li>
+<li style="text-align: justify;">нехватка сотрудников с высоким уровнем квалификации;</li>
+<li style="text-align: justify;">ограниченное количество рабочих мест;</li>
+<li style="text-align: justify;">динамика снижения количества трудоспособного населения;</li>
+<li style="text-align: justify;">низкий уровень жилищно-коммунального обустройства моногородов;</li>
+<li style="text-align: justify;">неготовность территории моногородов к реализации инвестиционных проектов;</li>
+<li style="text-align: justify;">снижение собственных доходов бюджетов моногородов, что отражается негативно на реализации социальной и коммунальной инфраструктуры.</li>
+</ul>
+<p style="text-align: justify;">Решением выявленных проблем будет являться реализация следующих рекомендаций:</p>
+<ul>
+<li style="text-align: justify;">определить федеральный и региональный исполнительный орган, который будет координировать деятельность федерального и регионального исполнительного органов и учреждений развития, осуществляющих соответствующие меры государственной поддержки развития муниципальных образований, научных и исторических территорий;</li>
+<li style="text-align: justify;">установить целевой показатель индикаторов комплексного развития муниципальных образований особого статуса.</li>
+</ul>
+<p style="text-align: justify;">Предложения по улучшению социально-экономического состояния моногородов Алтайского края представлены на рисунке 1.</p>
+<p style="text-align: center;"><img cropbottom="-1156f" croptop="-1134f" src="/files/2024_08_05_social/Shipulina.files/image001.png"/></p>
+<p style="text-align: justify;">Источник: составлено автором</p>
+<p style="text-align: center;"><strong><em>Рисунок 1. Предложения по улучшению социально-экономического состояния моногородов Алтайского края</em></strong></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: justify;">Нехватка финансирования является следствием слабой инвестиционной привлекательности монопрофильных поселений, а также отечественной бизнес-структуре и зарубежным организациям. Присутствие этой сложности прямо связано с объемом, качеством дотации. При этом совершенствование ситуации по субсидированию не представляет никакого интереса государству и независимым инвесторам, иначе говоря, это нерешенный парадокс на сегодняшний день.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><strong>Список литературы:</strong></p>
+<ol>
+<li style="text-align: justify;">Стратегия пространственного развития Российской Федерации на период до 2025 г. Утверждена распоряжением Правительства Российской Федерации от 13.02.2019 г. № 207-р</li>
+<li style="text-align: justify;">Бухвальд Е.М., Кольчугина А.В. Малые и моногорода в Стратегии пространственного развития Российской Федерации: Доклад / Под ред. О.Н. Валентик. М.: Институт экономики РАН, - 2019. - С.12.</li>
+<li style="text-align: justify;">Государственная Программа Российской Федерации «Развитие моногородов». [Электронный ресурс] URL: https://adm- pestovo.ru/images/novosti/2019/PasportGPmonogorod.pdf (дата обращения 25.05.2023)</li>
+<li style="text-align: justify;">Регионы России. Основные социально-экономические показатели городов. 2022: Стат. сб. / Росстат. М., 2022. - 460 с.</li>
+<li style="text-align: justify;">Федеральная служба государственной статистики [Электронный ресурс] URL: https://rosstat.gov.ru/ (дата обращения 25.05.2023).</li>
+<li style="text-align: justify;">Поддержка моногородов. ВЭБ.РФ [Электронный ресурс] URL: http://моногорода.рф/news/gruppa_vebrf_i_minekonomrazvitiya_rossii_opredelili_l iderov_sredi_monogorodov/ (дата обращения 04.06.2023).</li>
+<li style="text-align: justify;">Информация о социально-экономическом развитии Алейского района в 2023 году [Электронный ресурс] URL: file:///C:/Users/user/Downloads/2023%20%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%20%D0%B0%D0%BB%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0.pdf  (дата обращения 25.05.2023).</li>
+<li style="text-align: justify;">Решение Заринского городского Собрания депутатов от 29.08.2023 № 44 «Об утверждении стратегии социально-экономического развития муниципального образования город Заринск Алтайского края до 2035 года» [Электронный ресурс] URL: https://zarinsk-r22.gosweb.gosuslugi.ru/ofitsialno/dokumenty/dokumenty-all-2494_488.html (дата обращения 25.05.2023).</li>
+<li style="text-align: justify;">Обзор российских моногородов. Аналитический доклад ИКСИ [Электронный ресурс] URL: https://icss.ru/images/pdf/research_pdf/ MONOTOWNS.pdf (дата обращения 15.05.2023).</li>
+</ol>
+</div></div></div> </div>
