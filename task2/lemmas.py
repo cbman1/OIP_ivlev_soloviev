@@ -5,8 +5,8 @@ import pymorphy2
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 INPUT_DIR = os.path.join(current_dir, "../task1/выкачка")
-
-OUTPUT_DIR = "task2/task2_output"
+OUTPUT_DIR = "task2_output"
+OUTPUT_DIR_FULL = os.path.join(current_dir, OUTPUT_DIR)
 
 # стоп-слова
 STOP_WORDS = {
@@ -77,21 +77,22 @@ def process_file(filepath: str, out_subdir: str):
 
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    try:
-        txt_files = [os.path.join(INPUT_DIR, file)
-                     for file in os.listdir(INPUT_DIR)
-                     if file.endswith(".txt")]
-    except Exception as e:
-        print(f"Ошибка чтения директории {INPUT_DIR}: {e}")
-        return
+    filenames = [file for file in os.listdir(INPUT_DIR) if file.endswith(".txt")]
+    processed_count = 0
+    for filename in filenames:
+        match = re.search(r'выкачка(\d+)\.txt', filename, re.IGNORECASE)
+        if match:
+            doc_num_str = match.group(1)
+            subdir_name = f"выкачка{doc_num_str}"  # имя поддиректории = выкачка + номер
+            out_subdir_path = os.path.join(OUTPUT_DIR_FULL, subdir_name)
+            os.makedirs(out_subdir_path, exist_ok=True)
+            input_filepath = os.path.join(INPUT_DIR, filename)
 
-    for idx, filepath in enumerate(txt_files, start=1):
-        subdir_name = f"выкачка{idx}"
-        out_subdir = os.path.join(OUTPUT_DIR, subdir_name)
-        os.makedirs(out_subdir, exist_ok=True)
-        process_file(filepath, out_subdir)
-
-    print("Готово. Все файлы обработаны.")
+            process_file(input_filepath, out_subdir_path)
+            processed_count += 1
+        else:
+            print(
+                f" Файл '{filename}' во входной директории не соответствует шаблону 'выкачкаN.txt' и будет пропущен.")
 
 
 if __name__ == "__main__":
