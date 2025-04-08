@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Векторный Поиск (Python/Heroku)</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            margin: 20px;
+            background-color: #f8f9fa;
+            color: #212529;
+            line-height: 1.5;
+        }
+        h1 {
+            text-align: center;
+            color: #343a40;
+            margin-bottom: 1.5rem;
+        }
+        .search-container {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 25px;
+        }
+        #searchForm {
+            display: flex;
+            width: 90%;
+            max-width: 650px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        #searchInput {
+            padding: 12px 15px;
+            font-size: 1.05em;
+            border: 1px solid #ced4da;
+            border-right: none;
+            flex-grow: 1;
+            border-radius: 5px 0 0 5px;
+            box-sizing: border-box;
+        }
+        #searchInput:focus {
+            outline: none;
+            border-color: #80bdff;
+            box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+        }
+        #searchButton {
+            padding: 12px 20px;
+            font-size: 1.05em;
+            border: none;
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+            border-radius: 0 5px 5px 0;
+            transition: background-color 0.2s ease;
+            white-space: nowrap;
+        }
+        #searchButton:hover {
+            background-color: #0056b3;
+        }
+        #results {
+            margin-top: 30px;
+            max-width: 850px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .result-item {
+            background-color: #fff;
+            border: 1px solid #e9ecef;
+            border-radius: 6px;
+            padding: 18px 20px;
+            margin-bottom: 15px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            transition: box-shadow 0.2s ease;
+        }
+        .result-item:hover {
+             box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .result-item h2 {
+            margin-top: 0;
+            margin-bottom: 8px;
+            font-size: 1.25em;
+            font-weight: 500;
+        }
+        .result-item h2 a {
+            text-decoration: none;
+            color: #0056b3;
+        }
+        .result-item h2 a:hover {
+            text-decoration: underline;
+            color: #003d80;
+        }
+        .result-item .metadata {
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+        .error-message, .info-message {
+            color: #dc3545;
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+            border-radius: 4px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .info-message {
+             color: #0c5460;
+             background-color: #d1ecf1;
+             border-color: #bee5eb;
+        }
+        @media (max-width: 600px) {
+            #searchForm {
+                flex-direction: column;
+                width: 100%;
+                box-shadow: none;
+                border-radius: 0;
+            }
+            #searchInput {
+                border-radius: 5px;
+                margin-bottom: 10px;
+                border-right: 1px solid #ced4da;
+            }
+             #searchButton {
+                 border-radius: 5px;
+                 width: 100%;
+            }
+            .result-item {
+                padding: 15px;
+            }
+            h1 { font-size: 1.5em; }
+        }
+    </style>
+</head>
+<body>
+    <h1>Векторный Поиск по статьям</h1>
+
+    <div class="search-container">
+        <form action="/search" method="GET" id="searchForm">
+            <input type="text" id="searchInput" name="query" placeholder="Введите запрос..." value="{{ query or '' }}">
+            <button type="submit" id="searchButton">Найти</button>
+        </form>
+    </div>
+
+    <div id="results">
+        {% if error %}
+            <p class="error-message">{{ error }}</p>
+        {% elif results is not none %}
+            {% if results %}
+                {% for item in results %}
+                <div class="result-item">
+                    <h2><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a></h2>
+                    <p class="metadata">
+                        Документ: {{ item.id }}<br>
+                        Сходство: {{ "%.4f"|format(item.similarity) }}
+                    </p>
+                </div>
+                {% endfor %}
+            {% elif query %}
+                <p class="info-message">По вашему запросу ничего не найдено.</p>
+            {% endif %}
+        {% endif %}
+    </div>
+
+</body>
+</html>
